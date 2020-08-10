@@ -1,0 +1,9 @@
+
+.ipynb_checkpoints/Floods and Hazards Report-checkpoint.ipynb
+*.cpg
+*.dbf
+*.prj
+*.qpj
+*.shp
+*.shx
+*.qgs
