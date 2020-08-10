@@ -7,3 +7,10 @@
 *.shp
 *.shx
 *.qgs
+*.xml
+notebooks/.ipynb_checkpoints/data_summary_by_zip-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/Gage Assignment to Zip Code-checkpoint.ipynb
+notebooks/cleaning/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/Zip_code_elevations-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/feature_matrix_creation-checkpoint.ipynb
+notebooks/visualizations/.ipynb_checkpoints/Maps for Zip Codes-checkpoint.ipynb
