@@ -18,3 +18,14 @@ notebooks/visualizations/.ipynb_checkpoints/trends_flood_gages-checkpoint.ipynb
 notebooks/visualizations/.ipynb_checkpoints/zipcode_gages-checkpoint.ipynb
 notebooks/visualizations/.ipynb_checkpoints/Untitled-checkpoint.ipynb
 notebooks/cleaning/.ipynb_checkpoints/USGS_gage_processing-checkpoint.ipynb
+*.pptx
+*.numbers
+notebooks/.ipynb_checkpoints/feature_matrix_and_machine_learning-checkpoint.ipynb
+notebooks/cleaning/.ipynb_checkpoints/housing_value_preprocess-checkpoint.ipynb
+notebooks/visualizations/.ipynb_checkpoints/zipcode_housing_claims_returns-checkpoint.ipynb
+notebooks/visualizations/.ipynb_checkpoints/videos-checkpoint.ipynb
+notebooks/visualizations/.ipynb_checkpoints/videos-checkpoint.ipynb
+notebooks/visualizations/.ipynb_checkpoints/videos-checkpoint.ipynb
+notebooks/visualizations/.ipynb_checkpoints/videos-checkpoint.ipynb
+notebooks/visualizations/.ipynb_checkpoints/videos-checkpoint.ipynb
+notebooks/visualizations/Untitled.ipynb
